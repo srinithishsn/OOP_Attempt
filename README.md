@@ -1,3 +1,3 @@
 # OOP_Attempt
 
-Four Balls Challenge OOP Attempt
+Four Balls Challenge using Object-oriented programming
